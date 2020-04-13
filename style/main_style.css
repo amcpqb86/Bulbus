@@ -1,0 +1,35 @@
+body  {
+	padding: 0;
+	margin: 0;
+	background-color: #fff;
+}
+
+/* navbar */
+
+.nav-bar {
+	padding-bottom: 15px;
+	padding-top: 15px;
+	width: 100%;
+	position: fixed;
+	box-shadow: 0px 3px 4px #eee;
+}
+
+#logo-header img {
+	margin-left: 20px;
+}
+
+ul {
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	float: right;
+ }
+
+li {
+	 margin-left:15px;
+	 float: left;
+ }
+
+ li a {
+	text-decoration: none;
+ }
